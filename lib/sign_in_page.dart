@@ -1,7 +1,7 @@
 import 'package:different_preferences_types/constants/spacing.dart';
 import 'package:flutter/material.dart';
 // ignore: depend_on_referenced_packages
-import 'package:shared_preferences/shared_preferences.dart' show SharedPreferences;
+import 'package:shared_preferences/shared_preferences.dart';
 import 'constants/custom_field.dart';
 import 'constants/custom_num_field.dart';
 import 'home_page.dart';
